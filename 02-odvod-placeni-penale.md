@@ -252,6 +252,11 @@ Nástupce přebírá až desetiletou minulost pojistného. Statutáři a společ
 
 Nemocenské pojistné OSVČ se zálohově nevypořádává. Platí se v pevné výši z měsíčního základu, který si OSVČ zvolí (§ 14c).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 21/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A68466FD96824FB9C125848500186E1B?openDocument) — 2. 7. 2019, kat. A
+  > „Dlužné pojistné na důchodové pojištění a příspěvek na státní politiku zaměstnanosti u osoby samostatně výdělečně činné za dobu předcházející dni, kdy byl zjištěn úpadek dlužníka, nejsou pohledávkami za majetkovou podstatou ve smyslu § 168 odst. 2 insolvenčního zákona"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** OSVČ v paušálním režimu (první pásmo) je dobrovolně účastna nemocenského pojištění. Pojistné na nemocenské pojištění zahrne do měsíční platby paušální daně správci daně.
@@ -406,6 +411,11 @@ Povinnost platit zálohy se odvozuje z typu činnosti v daném měsíci a z výs
 
 **Dluh, přeplatek, doplatek (odst. 10–13).** Dlužné zálohy se stanoví z měsíčního základu podle odst. 2, 4 a 5. Na tuto výši odkazuje i § 20 odst. 1 pro penále. **Přeplatek** vzniká, převyšují-li zálohy roční pojistné nebo byly-li placeny za rok bez účasti (odst. 11). **Doplatek** je rozdíl mezi ročním pojistným a zaplacenými zálohami (odst. 12). Měsíční základ se zaokrouhluje na celé koruny nahoru (odst. 13).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 21/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A68466FD96824FB9C125848500186E1B?openDocument) — 2. 7. 2019, kat. A
+  > „Dlužné pojistné na důchodové pojištění a příspěvek na státní politiku zaměstnanosti u osoby samostatně výdělečně činné za dobu předcházející dni, kdy byl zjištěn úpadek dlužníka, nejsou pohledávkami za majetkovou podstatou ve smyslu § 168 odst. 2 insolvenčního zákona"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** OSVČ s hlavní činností měla v předchozím roce průměrný měsíční příjem po odpočtu výdajů 60 000 Kč. V běžném roce jí odpadl klíčový odběratel a za poslední 3 měsíce činil průměr 35 000 Kč. Oznámí pokles územní správě a od dalšího měsíce platí nižší zálohy.
@@ -456,6 +466,11 @@ Výše zálohy = 29,2 % (nebo 22,7 %) × max(55 % průměrného měsíčního da
 **Odst. 2 – placení do budoucna.** Zálohy lze platit na delší období, vždy však jen dopředu a nejdéle do konce kalendářního roku. Úhrn nesmí být nižší než součet minimálních záloh (podle § 14 odst. 2, 4 a 5) za období, na které se platí. Zálohy placené do budoucna lze **vrátit jen při ukončení činnosti**, a to za měsíce po ukončení. Podmínkou je žádost podaná nejpozději do konce kalendářního roku. Vrací se jen částka převyšující minimální úhrn.
 
 **Odst. 3 – doplatek** (§ 14 odst. 12) je splatný nejpozději do **8 dnů po dni**, v němž byl nebo měl být podán přehled o příjmech a výdajích. Podá-li OSVČ přehled včas, běží 8 dnů od skutečného dne podání, takže při dřívějším podání nastane splatnost dříve. Podá-li ho opožděně nebo vůbec, běží 8 dnů od posledního dne zákonné lhůty. Opožděné podání tedy splatnost neposouvá.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 21/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A68466FD96824FB9C125848500186E1B?openDocument) — 2. 7. 2019, kat. A
+  > „Dlužné pojistné na důchodové pojištění a příspěvek na státní politiku zaměstnanosti u osoby samostatně výdělečně činné za dobu předcházející dni, kdy byl zjištěn úpadek dlužníka, nejsou pohledávkami za majetkovou podstatou ve smyslu § 168 odst. 2 insolvenčního zákona"
 
 #### F. Kazuistika
 
@@ -973,6 +988,11 @@ Přeplatek se primárně započítává na splatné dluhy, teprve zbytek se vrac
 **Odst. 2 – právo vymáhat pojistné** se promlčuje za **10 let od právní moci platebního výměru**. Lhůta **neběží** (*stavení*) po dobu řízení u soudu (správní žaloba, kasační stížnost) a po dobu exekuce na peněžitá plnění prováděné exekučním správním orgánem. Nevztahuje se na exekuci soudním exekutorem, takže tam je stavení sporné. Vymáhat lze na základě platebního výměru i výkazu nedoplatků (§ 104h zákona č. 582/1991 Sb.). U výkazu nedoplatků, který nenabývá právní moci, ale je vykonatelný dnem vyhotovení (§ 104g odst. 2 téhož zákona), je počátek lhůty podle odst. 2 výkladově problematický.
 
 Na **penále** a **přirážku** se § 18 použije stejně (§ 20 odst. 6, § 21 odst. 4). Od promlčení pohledávky na pojistném se **penále neplatí** (§ 20 odst. 3 písm. g)). Promlčení je třeba v řízení zkoumat **z úřední povinnosti**, protože jde o hranici veřejnoprávní pravomoci předepsat či vymáhat pojistné.
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [31 Cdo 1103/2010](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/718A235A7BF0C0EBC1257A4E0068D4BA?openDocument) — 18. 7. 2012, kat. A
+  > „Při neúplné úpravě promlčení v zákoně č. 589/1992 Sb. (ve znění účinném do 31. 12. 2008), je nutno aplikovat ustanovení § 100 až § 114 obč. zák. Byl-li výkon rozhodnutí zastaven podle § 268 odst. 1 písm. c) o. s. ř., tedy k návrhu oprávněné, avšak pouze (a jedině) na základě sdělení soudu, že všechny movité věci povinného již byly sepsány ve prospěch dříve nařízených exekucí, nelze takový případ kvalifikovat jako nedostatek „řádného pokračování v zahájeném řízení“ ve smyslu ustanovení § 112 obč. zák"
 
 #### F. Kazuistika
 

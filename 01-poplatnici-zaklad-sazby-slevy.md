@@ -164,6 +164,11 @@ Příjmem rozpočtu jsou také penále (§ 20), přirážka k pojistnému (§ 21
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 21/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A68466FD96824FB9C125848500186E1B?openDocument) — 2. 7. 2019, kat. A
+  > „Dlužné pojistné na důchodové pojištění a příspěvek na státní politiku zaměstnanosti u osoby samostatně výdělečně činné za dobu předcházející dni, kdy byl zjištěn úpadek dlužníka, nejsou pohledávkami za majetkovou podstatou ve smyslu § 168 odst. 2 insolvenčního zákona"
+
 #### Struktura ustanovení — výčet poplatníků a podmínky jejich povinnosti
 
 Odst. 1 obsahuje výčet osob, které mohou být poplatníky (zaměstnavatelé, zaměstnanci). Teprve odst. 2 a 3 stanoví, **kdy** jim povinnost skutečně vzniká: rozhoduje účast zaměstnance na nemocenském pojištění. Odst. 4 až 6 upravují poplatníky mimo závislou činnost, tj. OSVČ, osoby dobrovolně účastné důchodového pojištění a zahraniční zaměstnance. Pojem poplatníka je tak **akcesorický k účasti na pojištění**. Kdo není účasten nemocenského pojištění podle zákona č. 187/2006 Sb. (zaměstnanec) nebo důchodového pojištění podle zákona č. 155/1995 Sb. (OSVČ), pojistné podle tohoto zákona neplatí, i když má příjem.
@@ -623,6 +628,11 @@ Vyměřovací základ se zaokrouhluje nahoru na celé koruny a pojistné pak zno
 > (2) U osoby samostatně výdělečně činné je rozhodným obdobím, z něhož se zjišťuje vyměřovací základ pro pojistné na důchodové pojištění a příspěvek na státní politiku zaměstnanosti, kalendářní rok, za který se toto pojistné a příspěvek platí.
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NS* [29 ICdo 21/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A68466FD96824FB9C125848500186E1B?openDocument) — 2. 7. 2019, kat. A
+  > „Dlužné pojistné na důchodové pojištění a příspěvek na státní politiku zaměstnanosti u osoby samostatně výdělečně činné za dobu předcházející dni, kdy byl zjištěn úpadek dlužníka, nejsou pohledávkami za majetkovou podstatou ve smyslu § 168 odst. 2 insolvenčního zákona"
 
 #### Kalendářní měsíc jako obecné rozhodné období (odst. 1)
 
